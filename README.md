@@ -4,4 +4,4 @@ Anggota:
 - Rayhan Maulana H    (152020116)
 - Nurochman Rizky A   (152020114)
 - Evita Intan         (152020018)
-- Hafidzul Fajri           (-)
+- Hafidzul Fajri      (152020093)
