@@ -1,4 +1,4 @@
-<?php 
+<!-- <?php 
 session_start();
 include 'koneksi/koneksi.php';
 if(isset($_SESSION['kd_cs'])){
@@ -100,4 +100,4 @@ if(isset($_SESSION['kd_cs'])){
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
-	</nav>
+	</nav> -->
