@@ -3,7 +3,7 @@
  ?>
 
 <div class="container" style="padding-bottom: 255px;">
-		<h2 style=" width: 100%; border-bottom: 4px solid #CD853F"><b>Login</b></h2>
+		<h2 style=" width: 100%; border-bottom: 4px solid #964b00"><b>Login</b></h2>
 
 <form action="proses/login.php" method="POST">
 		<div class="form-group">
