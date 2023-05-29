@@ -1,6 +1,7 @@
 # Toko Online Versi 1.0 
 Project ini digunakan untuk website berupa pastry, bakery, atau catering
 
+Halo
 Anggota Project:
 - Rayhan Maulana H (15-2020-116)
 - Nurochman Rizky A (15-2020-114)
