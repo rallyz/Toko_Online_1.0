@@ -12,7 +12,7 @@
 		</div>
 		
 		<div class="form-group">
-			<label for="exampleInputEmail1">Password</label>
+			<label for="exampleInputEmail1">Password/Kata sandi</label>
 			<input type="password" class="form-control" id="exampleInputEmail1" placeholder="Password" name="pass" style="width: 550px;">
 		</div>
 		<button type="submit" class="btn btn-success">Login</button>
