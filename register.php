@@ -41,7 +41,7 @@ include 'header.php';
 			
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="exampleInputPassword1">Password</label>
+					<label for="exampleInputPassword1">Password/Kata sandi</label>
 					<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="password" required>
 				</div>
 			</div>
