@@ -46,7 +46,7 @@ $rows = mysqli_fetch_assoc($cs);
 	</div>
 	<div class="row">
 	<div class="col-md-6 bg-success">
-		<h5>Pastikan pesanan anda sudah sesuai</h5>
+		<h5>Pastikan kembali apakah pesanan anda sudah sesuai</h5>
 	</div>
 	</div>
 	<br>
