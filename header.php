@@ -1,4 +1,4 @@
-<!-- <?php 
+<?php 
 session_start();
 include 'koneksi/koneksi.php';
 if(isset($_SESSION['kd_cs'])){
@@ -19,7 +19,7 @@ if(isset($_SESSION['kd_cs'])){
 
 </head>
 <body>
-	<div class="container-fluid">
+<!-- 	<div class="container-fluid">
 		<div class="row top">
 			<center>
 				<div class="col-md-4" style="padding: 3px;">
@@ -37,7 +37,7 @@ if(isset($_SESSION['kd_cs'])){
 				</div>
 			</center>
 		</div>
-	</div>
+	</div> -->
 
 	<nav class="navbar navbar-default" style="padding: 5px;">
 		<div class="container">
@@ -100,4 +100,4 @@ if(isset($_SESSION['kd_cs'])){
 				</ul>
 			</div><!-- /.navbar-collapse -->
 		</div><!-- /.container-fluid -->
-	</nav> -->
+	</nav>
