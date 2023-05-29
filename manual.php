@@ -8,7 +8,7 @@ include 'header.php';
     }
 </style>
 <div class="container">
-		<h2 style=" width: 100%; border-bottom: 4px solid #ff8680"><b>Manual Aplikasi</b></h2>
+		<h2 style=" width: 100%; border-bottom: 4px solid #964b00"><b>Manual Aplikasi</b></h2>
 	<div class="bs-acc">
 		<div class="panel-group" id="accordion">
 			<div class="panel panel-default">
