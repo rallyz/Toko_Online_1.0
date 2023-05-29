@@ -1,5 +1,5 @@
 
-	<footer style="border-top: 4px solid #ff8680;  ">
+	<footer style="border-top: 4px solid #964b00;  ">
 		<div class="container" style="padding-bottom: 50px;">
 			<div class="row">
 				<div class="col-md-4">
