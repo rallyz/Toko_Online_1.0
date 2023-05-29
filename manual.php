@@ -22,9 +22,12 @@ include 'header.php';
 				<div id="collapseOne" class="panel-collapse collapse in">
 					<div class="panel-body">
 						<ol>
-							<li>Pastikan Anda sudah Daftar/Register dahulu</li>
-							<li>Pilih Produk yang ingin dibeli</li>
+							<li>Pastikan Anda sudah daftar/register terlebih dahulu</li>
+							<li>Pilih produk yang ingin dibeli</li>
 							<li>Lakukan Checkout pesanan anda</li>
+							<li>Udah deh, anda hanya perlu duduk manis dan kue manis pun akan menghampiri mulut anda</li>
+							<li>kalau sudah dibaca, jangan lupa beli/checkout produk kami ya</li>
+							<li>Terima kasih, selamat berbelanja</li>
 						</ol>
 					</div>
 				</div>
