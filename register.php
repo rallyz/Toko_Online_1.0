@@ -3,7 +3,7 @@ include 'header.php';
 ?>
 
 <div class="container" style="padding-bottom: 250px;">
-	<h2 style=" width: 100%; border-bottom: 4px solid #ff8680"><b>Register</b></h2>
+	<h2 style=" width: 100%; border-bottom: 4px solid #964b00"><b>Register</b></h2>
 	<form action="proses/register.php" method="POST">
 		<div class="row">
 			<div class="col-md-6">
@@ -23,13 +23,13 @@ include 'header.php';
 		<div class="row">
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="exampleInputPassword1">username</label>
+					<label for="exampleInputPassword1">Username</label>
 					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="Username" name="username" required >
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="exampleInputPassword1">No Tepl</label>
+					<label for="exampleInputPassword1">No Telepon</label>
 					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="+62" name="telp" required >
 				</div>
 			</div>
@@ -41,7 +41,7 @@ include 'header.php';
 			
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="exampleInputPassword1">Password</label>
+					<label for="exampleInputPassword1">Password/Kata sandi</label>
 					<input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password" name="password" required>
 				</div>
 			</div>

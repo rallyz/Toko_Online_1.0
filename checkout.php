@@ -15,7 +15,7 @@ $rows = mysqli_fetch_assoc($cs);
 					<th>No</th>
 					<th>Nama</th>
 					<th>Harga</th>
-					<th>Qty</th>
+					<th>Qty/jumlah produk</th>
 					<th>Sub Total</th>
 				</tr>
 				<?php 
@@ -46,7 +46,7 @@ $rows = mysqli_fetch_assoc($cs);
 	</div>
 	<div class="row">
 	<div class="col-md-6 bg-success">
-		<h5>Pastikan Pesanan Anda Sudah Benar</h5>
+		<h5>Pastikan kembali apakah pesanan anda sudah sesuai</h5>
 	</div>
 	</div>
 	<br>

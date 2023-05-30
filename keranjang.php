@@ -8,7 +8,7 @@ if(isset($_POST['submit1'])){
 	if($edit){
 			echo "
 		<script>
-		alert('KERANJANG BERHASIL DIPERBARUI');
+		alert('Produk di keranjang berhasil diperbarui');
 		window.location = 'keranjang.php';
 		</script>
 		";
@@ -19,7 +19,7 @@ if(isset($_POST['submit1'])){
 	if($del){
 		echo "
 		<script>
-		alert('1 PRODUK DIHAPUS');
+		alert('1 produk berhasil dihapus');
 		window.location = 'keranjang.php';
 		</script>
 		";
